@@ -23,12 +23,13 @@ wc -l water_pokemon.txt
 
 ### e)
 ```console
-grep Fire pokemon.txt >> fire_pokemon.txt
-wc -l fire_pokemon.txt
-```
-
-### f)
-```console
 grep Fire water_pokemon.txt > fire_water_pokemon.txt
 wc -l fire_water_pokemon.txt
 ```
+
+### e)
+```console
+grep True pokemon.txt > legendary_pokemon.txt
+wc -l legendary_pokemon.txt
+```
+
