@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x   4 robinfeldmann  staff   128B Oct 20 01:19 .
+drwxr-xr-x  10 robinfeldmann  staff   320B Oct 19 23:34 ..
+-rw-r--r--   1 robinfeldmann  staff    12B Oct 20 01:18 hi.txt
+-rw-r--r--   1 robinfeldmann  staff     0B Oct 20 01:19 list_dir.txt

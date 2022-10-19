@@ -1,7 +1,0 @@
-Neben den Standard-Eingabe- und -Ausgabe-Kanälen existiert noch der Stan-
-dard-Fehler-Kanal. Sollte ein Programm während seiner Arbeit auf Probleme sto-
-ßen, werden die zugehörigen Fehlermeldungen auf diesem Kanal ausgegeben. So
-
-bekommen Sie sie zu sehen, auch wenn die Standardausgabe in eine Datei umge-
-leitet wird. Wenn Sie auch die Standardfehlerausgabe in eine Datei umleiten wol-
-len, müssen Sie beim Umleitungsoperator die Kanalnummer angeben
