@@ -16,7 +16,7 @@ Benutze den Kommandozeilenbefehl *grep* um die Datei "pokemon.txt" nach allen Wa
 Benutze den Kommandozeilenbefehl *wc* um die Anzahl der Wasser Pokemon festzustellen.
 
 ### e)
-Finde heraus wieviele Pokemon mit dem Typ Feuer und Wasser es gibt.
+Finde heraus wie viele Pokemon mit dem Typ Feuer und Wasser es gibt.
 
 ### f) 
-Finde heraus wieviele Legendäre Pokemon es gibt.
+Finde heraus wie viele Legendäre Pokemon es gibt.
